@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "98977053921",
+    "project_id": "ecommercepublicapi",
+    "storage_bucket": "ecommercepublicapi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:98977053921:android:b86cc5a197f7b5dcbfcba0",
+        "android_client_info": {
+          "package_name": "com.example.r12shopprovider"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxfnWR6luL1jydygXC1kSRX6SXpDhV_Jg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
