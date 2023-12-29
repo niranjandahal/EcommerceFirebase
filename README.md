@@ -1,13 +1,15 @@
 # Ecommerce App
 
+<img src="https://github.com/niranjandahal/EcommerceFirebase/blob/main/project-three.png">
+
+
 A Flutter Project 'Ecommerce' firebase as backend and fetching data through public api
 
 ## Video Sample
+
+
 [![Youtube Video](https://img.youtube.com/vi/-8R9qnpw__o/0.jpg)](https://www.youtube.com/watch?v=-8R9qnpw__o)
 
-
-
-<img src="https://github.com/niranjandahal/EcommerceFirebase/blob/main/project-three.png">
 
 
 ## Getting Started
