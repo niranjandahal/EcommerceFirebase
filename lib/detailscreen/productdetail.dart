@@ -330,7 +330,7 @@ class _productdetailState extends State<productdetail> {
                 Expanded(
                   child: ElevatedButton(
                     style: ElevatedButton.styleFrom(
-                      primary: Colors.orange[500],
+                      backgroundColor: Colors.orange[500],
                     ),
                     onPressed: () {
                       // Buy Now action
@@ -362,7 +362,7 @@ class _productdetailState extends State<productdetail> {
                           context);
                     },
                     style: ElevatedButton.styleFrom(
-                      primary: Colors.orange[500],
+                      backgroundColor: Colors.orange[500],
                     ),
                     child: Text("Add to Cart",
                         style: TextStyle(color: Colors.white)),

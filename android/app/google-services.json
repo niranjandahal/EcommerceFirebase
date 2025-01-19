@@ -1,13 +1,13 @@
 {
   "project_info": {
-    "project_number": "98977053921",
-    "project_id": "ecommercepublicapi",
-    "storage_bucket": "ecommercepublicapi.appspot.com"
+    "project_number": "403850009207",
+    "project_id": "ecommerceapp-b186f",
+    "storage_bucket": "ecommerceapp-b186f.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:98977053921:android:b86cc5a197f7b5dcbfcba0",
+        "mobilesdk_app_id": "1:403850009207:android:c98d639a0958de7bbfc472",
         "android_client_info": {
           "package_name": "com.example.r12shopprovider"
         }
@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyAxfnWR6luL1jydygXC1kSRX6SXpDhV_Jg"
+          "current_key": "AIzaSyCK9wr70WJAT-2nEspeVQI7KkMme3Dj9_U"
         }
       ],
       "services": {

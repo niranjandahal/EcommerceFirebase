@@ -93,7 +93,7 @@ BEGIN
             VALUE "FileDescription", "r12shopprovider" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
             VALUE "InternalName", "r12shopprovider" "\0"
-            VALUE "LegalCopyright", "Copyright (C) 2023 com.example. All rights reserved." "\0"
+            VALUE "LegalCopyright", "Copyright (C) 2025 com.example. All rights reserved." "\0"
             VALUE "OriginalFilename", "r12shopprovider.exe" "\0"
             VALUE "ProductName", "r12shopprovider" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
