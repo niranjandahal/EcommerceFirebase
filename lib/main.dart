@@ -81,8 +81,8 @@ class ForcedMobileView extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    const double mobileWidth = 380;
-    const double mobileHeight = 800;
+    const double mobileWidth = 400;
+    const double mobileHeight = 900;
 
     final screenWidth = MediaQuery.of(context).size.width;
     final screenHeight = MediaQuery.of(context).size.height;
