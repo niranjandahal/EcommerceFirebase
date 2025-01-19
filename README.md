@@ -23,9 +23,9 @@ A Flutter Project 'Ecommerce' firebase as backend and fetching data through publ
 4.create firebase database and create collection name 'users'
 
 
+## firebase database image : 
 
-
-
+<img src="https://github.com/niranjandahal/EcommerceFirebase/blob/main/project-3-s6.jpg">
 
 ## features
 - User authencation
