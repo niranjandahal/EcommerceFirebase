@@ -1,5 +1,7 @@
 # Ecommerce App
 
+# deployed url : https://ecommerce-firebase-one.vercel.app/
+
 <img src="https://github.com/niranjandahal/EcommerceFirebase/blob/main/project-three.png">
 
 
